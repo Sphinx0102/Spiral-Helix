@@ -1,7 +1,7 @@
 # Proyecto Spiral-Helix
 
 
-#####Proyecto que dibuja mediante una herramienta lapiz un Helix de varios colores
+####Proyecto que dibuja mediante una herramienta lapiz un Helix de varios colores
 ___
 
 ##### Programming languages
