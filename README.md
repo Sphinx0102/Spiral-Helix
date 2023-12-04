@@ -1,7 +1,6 @@
-# Proyecto Spiral-Helix
+# Spiral-Helix Project
 
-
-#### Proyecto que dibuja mediante una herramienta lapiz un Helix de varios colores
+This project utilizes a pencil tool to draw a helix in various colors.
 ___
 
 ##### Technologies Implemented
